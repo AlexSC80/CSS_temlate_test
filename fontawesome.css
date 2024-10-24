@@ -226,6 +226,13 @@
     -webkit-transition-duration: 0s;
             transition-duration: 0s; } }
 
+/* Новый класс для стилей */
+.fa-custom-style {
+  border-radius: 55px;
+  background: #e0e0e0;
+  box-shadow: 30px 30px 59px #b5b5b5, -30px -30px 59px #ffffff;
+}
+
 @-webkit-keyframes fa-beat {
   0%, 90% {
     -webkit-transform: scale(1);
