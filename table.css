@@ -21,3 +21,6 @@
 .table tbody tr:nth-child(even){
 	background: #F7F7F7;
 }
+.table-data-sets tr:hover td {
+    background-color: #333333 !important;
+}
