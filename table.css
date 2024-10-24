@@ -1,2 +1,5 @@
 .dashboard-item-title{backround-color:red;
 }
+.ant-table-body > .ant-table-tbody > tr:hover td {
+  background-color: #000033 !important;
+}
